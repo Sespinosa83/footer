@@ -1,0 +1,233 @@
+footer{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#footer_container{
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    line-height: 1em;
+    background-color: black;
+    float: none;
+    width: 100%;
+}
+
+#footer_container:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+.col_group{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+div.spererator{
+    border-bottom: 5px solid white;
+    padding-top: 20px;
+}
+
+aside#comp_col{
+    width: 15%;
+    float: left;
+    margin-right: 25px;
+    line-height: 2em;
+}
+
+h3{
+    color: #2effaf;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+div.col2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div.appcol{
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    margin-top: 25%;
+    margin-right: auto;
+    width: 90%;
+    margin-left: auto;
+    padding: 20px 0;
+}
+
+span a.linky{
+    color: dodgerblue;
+    text-decoration: none;
+}
+
+.app{
+    width: 200px;
+    height: 75px;
+    border: 1px solid white;
+    border-radius: 7px;
+}
+
+.app2{
+    width: 200px;
+    height: 74px;
+}
+
+span.rightcol{
+    float: right;
+    padding-left: 50px;
+}
+  
+  .button {
+    text-align: center;
+    border: 1px solid #2EFFAF;
+    background-color: #2EFFAF;
+    padding: 10px 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -webkit-transition: background-color 100ms linear;
+    -ms-transition: background-color 100ms linear;
+    transition: background-color 100ms linear;
+  }
+  
+  .button span {
+    color: black;
+    font-size: 20px;
+    font-family: "Quicksand", sans-serif;
+    -webkit-transition: color 100ms linear;
+    -ms-transition: color 100ms linear;
+    transition: color 100ms linear;
+  }
+  
+  .button:hover span {
+      color: black;
+  }
+
+  .biz_link{
+    text-decoration: none;
+    color: white;
+  }
+
+ul {
+    padding:0;
+    list-style: none;
+}
+.footer-social-icons {
+    width: 400px;
+    display:block;
+    margin: 0 auto;
+    margin-right: 258px
+}
+.social-icon {
+    color: #fff;
+    margin-block-end: 0;
+}
+ul.social-icons {
+    margin: 0;
+}
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+}
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+}
+.fa-facebook {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+}
+.fa-facebook:hover {
+    background-color: #3d5b99;
+    border-radius: 20px;
+}
+.fa-twitter {
+    padding:10px 12px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+
+}
+.fa-twitter:hover {
+    background-color: #00aced;
+    border-radius: 20px;
+}
+.fa-instagram {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+
+}
+.fa-instagram:hover {
+    background-color: #ad1995;
+    border-radius: 20px;
+}
+.fa-youtube {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+
+}
+.fa-youtube:hover {
+    background-color: #e64a41;
+    border-radius: 20px;
+}
+.fa-linkedin {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+
+}
+.fa-linkedin:hover {
+    background-color: #0073a4;
+    border-radius: 20px;
+}
+.iconify {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+
+}
+.iconify:hover {
+    background-color: #1aaf22;
+    border-radius: 20px;
+}
+
+div.copyright_sec{
+    margin: 10px;
+    text-align: center;
+}
+
+
+li.llc{
+    padding-bottom: 20px;
+    font-weight: 500;
+}
